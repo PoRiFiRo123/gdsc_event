@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Evently',
-  description: 'Evently is a platform for event management.',
+  title: 'GDSC-BNMIT',
+  description: 'GDSC-BNMIT is a platform for event management for Google Developer Student Club in BNM Institute of technology.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
